@@ -4,13 +4,13 @@
 
 ######		一、EF Core目前已能支持多个数据库引擎，包括：Sqlserver、Sqlite、Mysql、MariaDB、PostgreSql、DB2、Firebird等，未来还即将支持：Oracle、Cosmos DB，官方提供的说明如下：
 
-![EntityFramework Core支持数据库1](D:\笔记\Note\DotNetCore\EntityFrameworkCore\EFCore支持数据库1.png"EntityFramework Core支持数据库1")
+![EntityFramework Core支持数据库1](EFCore支持数据库1.png"EntityFramework Core支持数据库1")
 
-![EntityFramework Core支持数据库2](D:\笔记\Note\DotNetCore\EntityFrameworkCore\EFCore支持数据库2.png"EntityFramework Core支持数据库2")
+![EntityFramework Core支持数据库2](EFCore支持数据库2.png"EntityFramework Core支持数据库2")
 
 ######	二、 EF Core  是个.NetStandard 2.0库，EF Core 需要支持运行 .NET Standard 2.0 的实现， 其他 .NET Standard 2.0 库也可引用 EF Core。官方提供的EF Core 实现支持如下图：
 
-![EF Core实现支持](D:\笔记\Note\DotNetCore\EntityFrameworkCore\EFCore实现.png)
+![EF Core实现支持](EFCore实现.png)
 
 从图中可以看出，EF Core对.NetCore和.NetFramework 4.5.1和4.6.1能完全支持。
 
