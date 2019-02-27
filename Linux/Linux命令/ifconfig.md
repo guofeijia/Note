@@ -1,6 +1,6 @@
 ##  ifconfig
 
-linux中查看和临时修改IP地址的命令
+linux中查看和临时修改IP地址的命令，centos7中使用指令  ip a  查看IP地址配置
 
 - 命令名称：ifconfig。
 -  英文原意：configure a network interface。
